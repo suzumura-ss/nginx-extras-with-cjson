@@ -1,7 +1,7 @@
 # nginx-extras-with-cjson
 
 nginx-extras with lua-cjson.
-Based on Ubuntu:15.10
+Based on Ubuntu:15.10, 16.04
 
 
 # nginx-extras
